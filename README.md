@@ -12,3 +12,9 @@ Automatic web scraper using Selenium WebDriver
   ```
   python BestMovieMatcher.py
   ```
+  
+  ### Citation
+  - I used the following resources to do research on how to do the challenge. 
+*.   Title: Scraping the search box on IMDB with Selenium
+*    Author: Alan Schoen
+*    Availability: https://medium.com/@alanschoen/scraping-the-search-box-on-imdb-with-selenium-b864867daa68
