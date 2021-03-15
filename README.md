@@ -10,11 +10,20 @@ Automatic web scraper using Selenium WebDriver
   ```
 - Run the main program:
   ```
-  python BestMovieMatcher.py
-  ```
+  python BestMovieMatcher.py "godfather"
   
-  ### Citation
-  - I used the following resources to do research on how to do the challenge. 
-*.   Title: Scraping the search box on IMDB with Selenium
+- Expected Output:
+  ```
+Searching for movie with string filter 'godfather'
+The best match for movie search string 'godfather' is:
+Title: THE GODFATHER
+Release Year: 1972
+Critic Score: 98%
+User Score: 98%
+URL: https://rottentomatoes.com/m/godfather
+  
+### Citation
+I used the following resources to do research on how to do the challenge. 
+*    Title: Scraping the search box on IMDB with Selenium
 *    Author: Alan Schoen
 *    Availability: https://medium.com/@alanschoen/scraping-the-search-box-on-imdb-with-selenium-b864867daa68
